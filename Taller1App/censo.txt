@@ -1,0 +1,902 @@
+Comuna: La Serena
+
+  Nombre: Luis Suarez
+  Edad: 45
+  Ocupacion: Arquitecto
+  Cantidad Familia: 7
+  Censista: Jose Ortega
+
+  Nombre: Mario Martinez
+  Edad: 65
+  Ocupacion: Doctor
+  Cantidad Familia: 9
+  Censista: Jose Ortega
+
+  Nombre: Emiliano Pizarro
+  Edad: 70
+  Ocupacion: Jubilado
+  Cantidad Familia: 10
+  Censista: Jose Ortega
+
+  Nombre: Carmen Cuellar
+  Edad: 25
+  Ocupacion: Desempleada
+  Cantidad Familia: 3
+  Censista: Jose Ortega
+
+  Nombre: Maria Contreras
+  Edad: 33
+  Ocupacion: Profesora
+  Cantidad Familia: 5
+  Censista: Jorge Perez
+
+  Nombre: Alvaro Pizarro
+  Edad: 45
+  Ocupacion: Ingeniero
+  Cantidad Familia: 10
+  Censista: Jorge Perez
+
+  Nombre: Mario Bravo
+  Edad: 27
+  Ocupacion: Desempleado
+  Cantidad Familia: 2
+  Censista: Mario Caceres
+
+  Nombre: Jorge Lopez
+  Edad: 44
+  Ocupacion: Desempleado
+  Cantidad Familia: 7
+  Censista: Mario Caceres
+
+  Nombre: Gerardo Villalobos
+  Edad: 35
+  Ocupacion: Doctor
+  Cantidad Familia: 5
+  Censista: Elisa Arias
+
+  Nombre: Antonia Olate
+  Edad: 69
+  Ocupacion: Jubilada
+  Cantidad Familia: 10
+  Censista: Elisa Arias
+
+  Nombre: Juan Iturra
+  Edad: 55
+  Ocupacion: Constructor
+  Cantidad Familia: 8
+  Censista: Camila Suazo
+
+  Nombre: Juan Hernandez
+  Edad: 60
+  Ocupacion: Dentista
+  Cantidad Familia: 11
+  Censista: Camila Suazo
+
+  Nombre: Paula Gonzalez
+  Edad: 42
+  Ocupacion: Profesora
+  Cantidad Familia: 3
+  Censista: Camila Suazo
+
+  Nombre: Camila Lobos
+  Edad: 33
+  Ocupacion: Desempleada
+  Cantidad Familia: 6
+  Censista: Sandra Gonzalez
+
+  Nombre: Pablo Ahumada
+  Edad: 62
+  Ocupacion: Desempleado
+  Cantidad Familia: 7
+  Censista: Sandra Gonzalez
+
+  Nombre: Jorge Hurtado
+  Edad: 28
+  Ocupacion: Doctor
+  Cantidad Familia: 2
+  Censista: Sandra Gonzalez
+
+  Nombre: Luis Perez
+  Edad: 39
+  Ocupacion: Constructor
+  Cantidad Familia: 6
+  Censista: Luis Alvarez
+
+  Nombre: Abraham Gallardo
+  Edad: 48
+  Ocupacion: Desempleado
+  Cantidad Familia: 7
+  Censista: Luis Alvarez
+
+  Nombre: Cristobal Ahumada
+  Edad: 77
+  Ocupacion: Jubilado
+  Cantidad Familia: 8
+  Censista: Luis Alvarez
+
+  Nombre: Michelle Bustos
+  Edad: 23
+  Ocupacion: Estudiante
+  Cantidad Familia: 1
+  Censista: Luis Alvarez
+
+Comuna: Coquimbo
+
+  Nombre: Carla Errazuriz
+  Edad: 48
+  Ocupacion: Dentista
+  Cantidad Familia: 6
+  Censista: Emiliano Pavez
+
+  Nombre: Monserrat Perez
+  Edad: 59
+  Ocupacion: Desempleada
+  Cantidad Familia: 12
+  Censista: Emiliano Pavez
+
+  Nombre: Camila Contreras
+  Edad: 33
+  Ocupacion: Enfermera
+  Cantidad Familia: 3
+  Censista: Emiliano Pavez
+
+  Nombre: Francisca Martinez
+  Edad: 25
+  Ocupacion: Estudiante
+  Cantidad Familia: 2
+  Censista: Jorge Hurtado
+
+  Nombre: Elver Toledo
+  Edad: 66
+  Ocupacion: Jubilado
+  Cantidad Familia: 10
+  Censista: Juan Barraza
+
+  Nombre: Paulina Perez
+  Edad: 55
+  Ocupacion: Desempleada
+  Cantidad Familia: 8
+  Censista: Juan Barraza
+
+  Nombre: Sebastian Hernandez
+  Edad: 33
+  Ocupacion: Doctor
+  Cantidad Familia: 3
+  Censista: Juan Barraza
+
+  Nombre: Bastian Gutierrez
+  Edad: 69
+  Ocupacion: Jubilado
+  Cantidad Familia: 8
+  Censista: Juan Barraza
+
+  Nombre: Soledad Fredes
+  Edad: 45
+  Ocupacion: Enfermera
+  Cantidad Familia: 7
+  Censista: Maria Perez
+
+  Nombre: Ernesto Arce
+  Edad: 66
+  Ocupacion: Desempleado
+  Cantidad Familia: 2
+  Censista: Maria Perez
+
+  Nombre: Javiera Pizarro
+  Edad: 42
+  Ocupacion: Periodista
+  Cantidad Familia: 6
+  Censista: Juan Gallardo
+
+  Nombre: Cesar Huerta
+  Edad: 68
+  Ocupacion: Jubilado
+  Cantidad Familia: 10
+  Censista: Juan Gallardo
+
+  Nombre: Daniela Gonzalez
+  Edad: 45
+  Ocupacion: Bailarina
+  Cantidad Familia: 9
+  Censista: Marta Hernandez
+
+  Nombre: Cristian Zarate
+  Edad: 33
+  Ocupacion: Zapatero
+  Cantidad Familia: 3
+  Censista: Marta Hernandez
+
+  Nombre: Amanda Urrutia
+  Edad: 32
+  Ocupacion: Abogada
+  Cantidad Familia: 5
+  Censista: Catalina Lopez
+
+  Nombre: Matias Ortiz
+  Edad: 27
+  Ocupacion: Minero
+  Cantidad Familia: 2
+  Censista: Catalina Lopez
+
+  Nombre: Ester Astorga
+  Edad: 66
+  Ocupacion: Jubilada
+  Cantidad Familia: 7
+  Censista: Francisca Paredes
+
+Comuna: La Higuera
+
+  Nombre: Carla Briones
+  Edad: 24
+  Ocupacion: Estudiante
+  Cantidad Familia: 3
+  Censista: Mariana Contreras
+
+  Nombre: Eugenia Pasten
+  Edad: 78
+  Ocupacion: Jubilada
+  Cantidad Familia: 10
+  Censista: Mariana Contreras
+
+  Nombre: Ernesto Lara
+  Edad: 55
+  Ocupacion: Ingeniero
+  Cantidad Familia: 6
+  Censista: Mariana Contreras
+
+  Nombre: Pedro Carrasco
+  Edad: 38
+  Ocupacion: Desempleado
+  Cantidad Familia: 5
+  Censista: Felipe Pizarro
+
+  Nombre: Gladis Astorga
+  Edad: 60
+  Ocupacion: Cesante
+  Cantidad Familia: 8
+  Censista: Felipe Pizarro
+
+  Nombre: Rodrigo Ortiz
+  Edad: 39
+  Ocupacion: Periodista
+  Cantidad Familia: 5
+  Censista: Soledad Marin
+
+  Nombre: Camilo Villagra
+  Edad: 58
+  Ocupacion: Cantante
+  Cantidad Familia: 2
+  Censista: Soledad Marin
+
+  Nombre: Teresa Suazo
+  Edad: 46
+  Ocupacion: Aseo
+  Cantidad Familia: 6
+  Censista: Soledad Marin
+
+  Nombre: Cristian Olivares
+  Edad: 55
+  Ocupacion: Desempleado
+  Cantidad Familia: 7
+  Censista: Elver Gallardo
+
+  Nombre: Susana Lopez
+  Edad: 45
+  Ocupacion: Secretaria
+  Cantidad Familia: 5
+  Censista: Elver Gallardo
+
+  Nombre: Camila Monardez
+  Edad: 25
+  Ocupacion: Empresaria
+  Cantidad Familia: 3
+  Censista: Luis Molina
+
+  Nombre: Franco Trigo
+  Edad: 19
+  Ocupacion: Estudiante
+  Cantidad Familia: 2
+  Censista: Luis Molina
+
+  Nombre: Ricardo Ortega
+  Edad: 33
+  Ocupacion: Medico
+  Cantidad Familia: 4
+  Censista: Luis Molina
+
+Comuna: Andacollo
+
+  Nombre: Carolina Pineda
+  Edad: 58
+  Ocupacion: Cesante
+  Cantidad Familia: 7
+  Censista: Felipe Godoy
+
+  Nombre: Eduardo Zabaleta
+  Edad: 59
+  Ocupacion: Cesante
+  Cantidad Familia: 8
+  Censista: Felipe Godoy
+
+  Nombre: Loreto Araneda
+  Edad: 56
+  Ocupacion: Medico
+  Cantidad Familia: 6
+  Censista: Cristian Ortega
+
+  Nombre: Lorena Lagos
+  Edad: 24
+  Ocupacion: Estudiante
+  Cantidad Familia: 2
+  Censista: Cristian Ortega
+
+  Nombre: Patricia Galvez
+  Edad: 39
+  Ocupacion: Empresaria
+  Cantidad Familia: 5
+  Censista: Cristian Ortega
+
+  Nombre: Camilo Ruiz
+  Edad: 88
+  Ocupacion: Jubilado
+  Cantidad Familia: 9
+  Censista: Fernando Astorga
+
+  Nombre: Emilia Cortes
+  Edad: 66
+  Ocupacion: Jubilada
+  Cantidad Familia: 7
+  Censista: Fernando Astorga
+
+  Nombre: Gabriel Zarate
+  Edad: 36
+  Ocupacion: Profesor
+  Cantidad Familia: 6
+  Censista: Daniel Cuellar
+
+  Nombre: Hector Carrizo
+  Edad: 58
+  Ocupacion: Cesante
+  Cantidad Familia: 6
+  Censista: Daniel Cuellar
+
+  Nombre: Gabriela Diaz
+  Edad: 22
+  Ocupacion: Estudiante
+  Cantidad Familia: 2
+  Censista: Daniel Cuellar
+
+  Nombre: Constanza Herrera
+  Edad: 23
+  Ocupacion: Estudiante
+  Cantidad Familia: 3
+  Censista: Daniela Lopez
+
+  Nombre: Gonzalo Caceres
+  Edad: 55
+  Ocupacion: Cesante
+  Cantidad Familia: 5
+  Censista: Daniela Lopez
+
+  Nombre: Jaqueline Fernandez
+  Edad: 40
+  Ocupacion: Cesante
+  Cantidad Familia: 3
+  Censista: Benjamin Hernandez
+
+  Nombre: Yasna Uribe
+  Edad: 39
+  Ocupacion: Profesora
+  Cantidad Familia: 5
+  Censista: Benjamin Hernandez
+
+Comuna: Paihuano
+
+  Nombre: Daniela Bravo
+  Edad: 25
+  Ocupacion: Estudiante
+  Cantidad Familia: 4
+  Censista: Paula Gonzalez
+
+  Nombre: Elisa Saavedra
+  Edad: 22
+  Ocupacion: Desempleada
+  Cantidad Familia: 3
+  Censista: Paula Gonzalez
+
+  Nombre: Victor Jofre
+  Edad: 69
+  Ocupacion: Jubilado
+  Cantidad Familia: 7
+  Censista: Paula Gonzalez
+
+  Nombre: Sebastian Alvarez
+  Edad: 70
+  Ocupacion: Jubilado
+  Cantidad Familia: 8
+  Censista: Victor Huerta
+
+  Nombre: Mauricio Munizaga
+  Edad: 33
+  Ocupacion: Cesante
+  Cantidad Familia: 3
+  Censista: Victor Huerta
+
+  Nombre: Genesis Galleguillos
+  Edad: 36
+  Ocupacion: Empresaria
+  Cantidad Familia: 5
+  Censista: Eduardo Castillo
+
+  Nombre: Gabriela Perez
+  Edad: 38
+  Ocupacion: Profesora
+  Cantidad Familia: 2
+  Censista: Eduardo Castillo
+
+  Nombre: Hector Silva
+  Edad: 90
+  Ocupacion: Jubilado
+  Cantidad Familia: 8
+  Censista: Eduardo Castillo
+
+  Nombre: Ana Carvajal
+  Edad: 65
+  Ocupacion: Jubilada
+  Cantidad Familia: 3
+  Censista: Carlos Manzano
+
+  Nombre: Luis Fredes
+  Edad: 34
+  Ocupacion: Arquitecto
+  Cantidad Familia: 3
+  Censista: Carlos Manzano
+
+  Nombre: Jose Rodriguez
+  Edad: 45
+  Ocupacion: Soldado
+  Cantidad Familia: 6
+  Censista: Carlos Bustos
+
+  Nombre: Alberto Olivares
+  Edad: 33
+  Ocupacion: Boxeador
+  Cantidad Familia: 4
+  Censista: Carlos Bustos
+
+  Nombre: Fernanda Cortes
+  Edad: 24
+  Ocupacion: Estudiante
+  Cantidad Familia: 2
+  Censista: Carlos Bustos
+
+Comuna: Ovalle
+
+  Nombre: Constanza Espina
+  Edad: 55
+  Ocupacion: Profesora
+  Cantidad Familia: 6
+  Censista: Diego Jimenez
+
+  Nombre: Jorge Villagran
+  Edad: 57
+  Ocupacion: Medico
+  Cantidad Familia: 7
+  Censista: Diego Jimenez
+
+  Nombre: Cristobal Arias
+  Edad: 36
+  Ocupacion: Medico
+  Cantidad Familia: 3
+  Censista: Diego Jimenez
+
+  Nombre: Agustina Farias
+  Edad: 76
+  Ocupacion: Jubilada
+  Cantidad Familia: 8
+  Censista: Fernanda Rojas
+
+  Nombre: Rocio Vergara
+  Edad: 34
+  Ocupacion: Desempleada
+  Cantidad Familia: 3
+  Censista: Fernanda Rojas
+
+  Nombre: Victor Bravo
+  Edad: 35
+  Ocupacion: Constructor
+  Cantidad Familia: 5
+  Censista: Rocio Alvarez
+
+  Nombre: Marcelo Aranguiz
+  Edad: 48
+  Ocupacion: Cesante
+  Cantidad Familia: 7
+  Censista: Rocio Alvarez
+
+  Nombre: Rodrigo Cardenas
+  Edad: 29
+  Ocupacion: Ingeniero
+  Cantidad Familia: 2
+  Censista: Rocio Alvarez
+
+  Nombre: Italo Moreno
+  Edad: 68
+  Ocupacion: Profesor
+  Cantidad Familia: 8
+  Censista: Juan Pereira
+
+  Nombre: Cristina Alfaro
+  Edad: 25
+  Ocupacion: Estudiante
+  Cantidad Familia: 3
+  Censista: Juan Pereira
+
+  Nombre: Esteban Segovia
+  Edad: 59
+  Ocupacion: Cesante
+  Cantidad Familia: 7
+  Censista: Alvaro Ramos
+
+  Nombre: Alfredo Rosales
+  Edad: 80
+  Ocupacion: Jubilado
+  Cantidad Familia: 9
+  Censista: Alvaro Ramos
+
+  Nombre: Cristian Hurtado
+  Edad: 30
+  Ocupacion: Medico
+  Cantidad Familia: 3
+  Censista: Alvaro Ramos
+
+  Nombre: Alicia Solis
+  Edad: 28
+  Ocupacion: Arquitecta
+  Cantidad Familia: 3
+  Censista: Jose Aldunate
+
+  Nombre: Alvaro Ruiz
+  Edad: 25
+  Ocupacion: Estudiante
+  Cantidad Familia: 2
+  Censista: Jose Aldunate
+
+Comuna: Monte Patria
+
+  Nombre: Jorge Jimenez
+  Edad: 38
+  Ocupacion: Periodista
+  Cantidad Familia: 6
+  Censista: Manuel Cortes
+
+  Nombre: Monica Fernandez
+  Edad: 56
+  Ocupacion: Profesora
+  Cantidad Familia: 8
+  Censista: Manuel Cortes
+
+  Nombre: Natalia Azocar
+  Edad: 36
+  Ocupacion: Cesante
+  Cantidad Familia: 3
+  Censista: Evelin Suarez
+
+  Nombre: Evelin Gutierrez
+  Edad: 85
+  Ocupacion: Jubilada
+  Cantidad Familia: 7
+  Censista: Evelin Suarez
+
+  Nombre: Constanza Huerta
+  Edad: 50
+  Ocupacion: Medico
+  Cantidad Familia: 6
+  Censista: Gerardo Lobos
+
+  Nombre: Esteban Ramirez
+  Edad: 29
+  Ocupacion: Cesante
+  Cantidad Familia: 3
+  Censista: Gerardo Lobos
+
+  Nombre: Bastian Zarate
+  Edad: 38
+  Ocupacion: Cirujano
+  Cantidad Familia: 5
+  Censista: Gerardo Lobos
+
+  Nombre: Paula Jara
+  Edad: 28
+  Ocupacion: Enfermera
+  Cantidad Familia: 3
+  Censista: Paulina Toledo
+
+  Nombre: Catalina Meneses
+  Edad: 45
+  Ocupacion: Cesante
+  Cantidad Familia: 6
+  Censista: Paulina Toledo
+
+  Nombre: Cecilia Vasquez
+  Edad: 60
+  Ocupacion: Jubilada
+  Cantidad Familia: 6
+  Censista: Paulina Toledo
+
+  Nombre: Ernesto Contreras
+  Edad: 61
+  Ocupacion: Constructor
+  Cantidad Familia: 2
+  Censista: Francisca Ahumada
+
+  Nombre: Josefina Sanhueza
+  Edad: 35
+  Ocupacion: Periodista
+  Cantidad Familia: 5
+  Censista: Francisca Ahumada
+
+  Nombre: Margarita Veliz
+  Edad: 50
+  Ocupacion: Cesante
+  Cantidad Familia: 6
+  Censista: Antonia Rios
+
+  Nombre: Juan Monardes
+  Edad: 45
+  Ocupacion: Profesor
+  Cantidad Familia: 5
+  Censista: Antonia Rios
+
+  Nombre: Carla Gallardo
+  Edad: 22
+  Ocupacion: Cesante
+  Cantidad Familia: 2
+  Censista: antonia Rios
+
+Comuna: Punitaqui
+
+  Nombre: Jose Suarez
+  Edad: 30
+  Ocupacion: Medico
+  Cantidad Familia: 3
+  Censista: Abraham Bravo
+
+  Nombre: Mariana Jorquera
+  Edad: 45
+  Ocupacion: Enfermera
+  Cantidad Familia: 6
+  Censista: Abraham Bravo
+
+  Nombre: Cristiana Ceballos
+  Edad: 40
+  Ocupacion: Profesora
+  Cantidad Familia: 5
+  Censista: Fabian Espina
+
+  Nombre: Daniela Molina
+  Edad: 35
+  Ocupacion: Mesera
+  Cantidad Familia: 3
+  Censista: Fabian Espina
+
+  Nombre: Soledad Olivares
+  Edad: 60
+  Ocupacion: Jubilada
+  Cantidad Familia: 7
+  Censista: Fabian Espina
+
+  Nombre: Sandra Torres
+  Edad: 50
+  Ocupacion: Chef
+  Cantidad Familia: 6
+  Censista: Elizabeth Bravo
+
+  Nombre: Felipe Cifuentes
+  Edad: 30
+  Ocupacion: Boxeador
+  Cantidad Familia: 2
+  Censista: Elizabeth Bravo
+
+  Nombre: Gabriela Martinez
+  Edad: 56
+  Ocupacion: Profesora
+  Cantidad Familia: 7
+  Censista: Elizabeth Bravo
+
+  Nombre: Maria Manzano
+  Edad: 35
+  Ocupacion: Chef
+  Cantidad Familia: 5
+  Censista: Bruno Alves
+
+  Nombre: Marta Iturra
+  Edad: 40
+  Ocupacion: Empresaria
+  Cantidad Familia: 4
+  Censista: Bruno Alves
+
+  Nombre: Evelin Cifuentes
+  Edad: 22
+  Ocupacion: Estudiante
+  Cantidad Familia: 2
+  Censista: Ruben Hurtado
+
+  Nombre: Ana Lobos
+  Edad: 60
+  Ocupacion: Jubilada
+  Cantidad Familia: 6
+  Censista: Ruben Hurtado
+
+Comuna: Los Vilos
+
+  Nombre: Carmen Soto
+  Edad: 55
+  Ocupacion: Cesante
+  Cantidad Familia: 6
+  Censista: Gloria Vergara
+
+  Nombre: Ricardo Pavez
+  Edad: 30
+  Ocupacion: Constructor
+  Cantidad Familia: 3
+  Censista: Gloria Vergara
+
+  Nombre: Esteban Garrido
+  Edad: 31
+  Ocupacion: Constructor
+  Cantidad Familia: 5
+  Censista: Gloria Vergara
+
+  Nombre: Catalina Mendez
+  Edad: 50
+  Ocupacion: Astronoma
+  Cantidad Familia: 6
+  Censista: Carmen Herrera
+
+  Nombre: Patricio Segovia
+  Edad: 40
+  Ocupacion: Cesante
+  Cantidad Familia: 3
+  Censista: Carmen Herrera
+
+  Nombre: Carmen Gomez
+  Edad: 39
+  Ocupacion: Cantante
+  Cantidad Familia: 2
+  Censista: Italo Jorquera
+
+  Nombre: Luis Hurtado
+  Edad: 38
+  Ocupacion: Empresario
+  Cantidad Familia: 7
+  Censista: Italo Jorquera
+
+  Nombre: Paulina Vega
+  Edad: 54
+  Ocupacion: Profesora
+  Cantidad Familia: 8
+  Censista: Antonia Saavedra
+
+  Nombre: Marta Astorga
+  Edad: 30
+  Ocupacion: Secretaria
+  Cantidad Familia: 3
+  Censista: Antonia Saavedra
+
+  Nombre: Pedro Varas
+  Edad: 50
+  Ocupacion: Panadero
+  Cantidad Familia: 6
+  Censista: Antonia Saavedra
+
+  Nombre: Benjamin Gallardo
+  Edad: 25
+  Ocupacion: Estudiante
+  Cantidad Familia: 3
+  Censista: Daniela Gonzalez
+
+  Nombre: Domingo Estrada
+  Edad: 39
+  Ocupacion: Profesor
+  Cantidad Familia: 7
+  Censista: Daniela Gonzalez
+
+  Nombre: Claudia Villalobos
+  Edad: 41
+  Ocupacion: Sicologa
+  Cantidad Familia: 5
+  Censista: Daniela Gonzalez
+
+  Nombre: Sofia Mancilla
+  Edad: 40
+  Ocupacion: Enfermera
+  Cantidad Familia: 6
+  Censista: Cristian Arriagada
+
+  Nombre: Estefani Torres
+  Edad: 26
+  Ocupacion: Cesante
+  Cantidad Familia: 3
+  Censista: Cristian Arriagada
+
+  Nombre: Carlos Pinto
+  Edad: 50
+  Ocupacion: Medico
+  Cantidad Familia: 7
+  Censista: Cristian Arriagada
+
+Comuna: Canela
+
+  Nombre: Paula Avalos
+  Edad: 22
+  Ocupacion: Estudiante
+  Cantidad Familia: 3
+  Censista: Claudio Bravo
+
+  Nombre: Barbara Soto
+  Edad: 40
+  Ocupacion: Musico
+  Cantidad Familia: 5
+  Censista: Claudio Bravo
+
+  Nombre: Fabian Aviles
+  Edad: 50
+  Ocupacion: Piloto
+  Cantidad Familia: 7
+  Censista: Claudio Bravo
+
+  Nombre: Ester Miranda
+  Edad: 40
+  Ocupacion: Cesante
+  Cantidad Familia: 2
+  Censista: Mariana Villalobos
+
+  Nombre: Carlos Pizarro
+  Edad: 60
+  Ocupacion: Constructor
+  Cantidad Familia: 6
+  Censista: Mariana Villalobos
+
+  Nombre: Elver Soza
+  Edad: 58
+  Ocupacion: Zapatero
+  Cantidad Familia: 7
+  Censista: Julio Canales
+
+  Nombre: Miriam Jerez
+  Edad: 36
+  Ocupacion: Secretaria
+  Cantidad Familia: 3
+  Censista: Julio Canales
+
+  Nombre: Alberto Rodriguez
+  Edad: 45
+  Ocupacion: Medico
+  Cantidad Familia: 4
+  Censista: Julio Canales
+
+  Nombre: Alonso Castro
+  Edad: 33
+  Ocupacion: Periodista
+  Cantidad Familia: 3
+  Censista: Franco Iturra
+
+  Nombre: Paula Valenzuela
+  Edad: 40
+  Ocupacion: Profesora
+  Cantidad Familia: 5
+  Censista: Franco Iturra
+
+  Nombre: Jose Herrera
+  Edad: 63
+  Ocupacion: Cesante
+  Cantidad Familia: 7
+  Censista: Franco Iturra
+
+  Nombre: Ruben Guaman
+  Edad: 42
+  Ocupacion: Chef
+  Cantidad Familia: 5
+  Censista: Franco Iturra
+
